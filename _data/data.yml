@@ -87,9 +87,9 @@ projects:
     assignments:
       - title: Image Proccessing Console Application written in Python
         link: "#hook"
-        tagline: "I've created several apps that can proccess an image and reactreate it. Those kind of apps are able to apply sobel filters , watermark an image , recreate a negative picture and indetify low intensity shapes."
+        tagline: "I've created several apps that can proccess an image and rectreate it. Those kind of apps are able to apply sobel filters , watermark an image , recreate a negative picture and indetify low intensity shapes."
 
-      - title: Object orianteted projects
+      - title: Object oriented projects
         link: "#"
         tagline: "I am familiar with the basic concepts of OOP programming. Most of those projects were developed in Java and C++ and indicated concepts of Classes Inheritance and Polymorhism"
 
@@ -99,7 +99,7 @@ projects:
 
       - title: Low level programming in C
         link: "#"
-        tagline: "During my studies i had the oportunity to write low-level code in a UNIX system . For that projects i used vi and a gcc compiler to create projects that can execute other programs and sync computer proccesses. "
+        tagline: "During my studies i had the opportunity to write low-level code in a UNIX system . For that projects i used vi and a gcc compiler to create projects that can execute other programs and sync computer proccesses. "
 
       - title: 
         link: "#"
