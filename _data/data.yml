@@ -106,25 +106,11 @@ projects:
         tagline: ""
 
 publications:
-    title: Publications
+    title: 
     intro: |
       
     papers:
-      - title: 
-        link: "#"
-        authors: 
-        conference: 
-
-      - title: ""
-        link: "#"
-        authors: 
-        conference: ""
-
-      - title:
-        link: "#"
-        authors: 
-        conference: ""
-
+      
 skills:
     title: Skills &amp; Tools
 
