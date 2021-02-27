@@ -157,22 +157,22 @@ skills:
 
     toolset:
       - name: Python & C
-        level: 78%
+        level: 68%
 
       - name: Linux 
-        level: 69%
+        level: 59%
 
       - name: Java
-        level: 58%
+        level: 48%
 
       - name: Git & Github
-        level: 45%
+        level: 35%
 
       - name: Docker & Virtual Machines
-        level: 50%
+        level: 40%
 
       - name: Photoshop
-        level: 30%
+        level: 20%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
