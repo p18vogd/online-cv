@@ -83,13 +83,11 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      There is some of my projects that i created so far.
     assignments:
-      - title: Velocity
+      - title: Image Proccessing Console Application
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "I've created several apps that can proccess an image and reactreate it. Those kind of apps are able to apply sobel filters , watermark an image , recreate a negative picture and indetify low intensity shapes."
 
       - title: DevStudio
         link: "#"
