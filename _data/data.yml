@@ -63,17 +63,20 @@ education:
       details: |
         
 experiences:
-    - role: Big university projects
-      time: 2018 -
-      company: Ionian University
-      details: | At times i had to deliver big and complex projects .
+    - role: THIS IS A TEST
+      time: 2015 - Present
+      company: Startup Hubs, San Francisco
+      details: |
         
-    - role: Creating  Video Game
-      time: 2018 -
-      company: Ionian University
-      details: | One of my recent projects is a game that i created on Unity Engine .
+    - role: 
+      time: 
+      company: 
+      details: |
        
-    
+    - role: 
+      time: 
+      company: 
+      details: |
        
 projects:
     title: Projects
@@ -105,22 +108,24 @@ projects:
 publications:
     title: Publications
     intro: |
-      
+      You can list your publications in this section. Lorem ipsum dolor sit
+      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+      bibendum fringilla a eu lectus.
     papers:
-      - title: 
+      - title: The Art of Computer Programming
         link: "#"
-        authors: 
-        conference: 
+        authors: Donald E. Knuth
+        conference: Addison-Wesley, 1968
 
-      - title: 
+      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
         link: "#"
-        authors: 
-        conference: 
+        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-      - title: 
+      - title: A syntax directed compiler for Algol 60
         link: "#"
-        authors: 
-        conference: 
+        authors: Edgar T. Irons
+        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Tools
