@@ -85,25 +85,25 @@ projects:
     intro: >
       There is some of my projects that i created so far.
     assignments:
-      - title: Image Proccessing Console Application
+      - title: Image Proccessing Console Application written in Python
         link: "#hook"
         tagline: "I've created several apps that can proccess an image and reactreate it. Those kind of apps are able to apply sobel filters , watermark an image , recreate a negative picture and indetify low intensity shapes."
 
-      - title: DevStudio
+      - title: Object orianteted projects
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "I am familiar with the basic concepts of OOP programming. Most of those projects were developed in Java and C++ and indicated concepts of Classes Inheritance and Polymorhism"
 
-      - title: Tempo
+      - title: Unity Engine
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "My latest project had to do with Game development, where i managed to create a single player kart game developed in Unity Engine."
 
-      - title: Atom
+      - title: Low level programming in C
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "During my studies i had the oportunity to write low-level code in a UNIX system . For that projects i used vi and a gcc compiler to create projects that can execute other programs and sync computer proccesses. "
 
-      - title: Delta
+      - title: 
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: ""
 
 publications:
     title: Publications
