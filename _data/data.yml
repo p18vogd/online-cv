@@ -64,19 +64,16 @@ education:
         
 experiences:
     - role: Big university projects
-      time: 
+      time: 2018 -
       company: Ionian University
       details: | At times i had to deliver big and complex projects 
         
     - role: Creating  Video Game
-      time: 
+      time: 2018 -
       company: Ionian University
       details: | One of my recent projects is a game that i created on Unity Engine 
        
-    - role: 
-      time: 
-      company: 
-      details: |
+    
        
 projects:
     title: Projects
